@@ -1,0 +1,21 @@
+.filter {
+    height: 15rem;
+    font-size: 16px;
+    background-color: white;
+    box-shadow: 0px 2px 5px grey;
+    color: black;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    text-align: center;
+}
+
+.filter input {
+    width: 5rem;
+}
+
+.filter select {
+    font-size: 16px; 
+}
+

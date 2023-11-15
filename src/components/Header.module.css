@@ -1,0 +1,48 @@
+.header {
+    height: 12rem;
+    position: fixed;
+    top: 0;
+    color: black;
+    font-size: large;
+    font-weight: bolder;
+    width: 100%;
+    background-color: white;
+    z-index: 100;
+    box-shadow: 0px 2px 5px grey;
+}
+
+
+.loginContainer {
+    position: absolute;
+    right: 2rem;
+    top: 5rem;
+    z-index: 3;
+    background-color: whitesmoke;
+}
+
+.shopping {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    z-index: 3;
+    top: 5rem;
+    right: 26rem;
+    margin-right: 5rem;
+}
+
+.login {
+    margin-right: 5rem;
+    padding-bottom: 2rem;
+}
+
+.login:hover {
+    cursor: pointer;
+}
+
+.wrap {
+    padding-left: 1rem;
+}
+
+.header a {
+    text-decoration: none;
+}

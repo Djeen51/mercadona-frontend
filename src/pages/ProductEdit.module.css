@@ -1,0 +1,40 @@
+
+.productEdit {
+    color: red;
+    font-size: 20px;
+    margin-top: 13rem;
+}
+
+.custom-file-input {
+    display: inline-block;
+    padding: 8px 12px;
+    background-color: #007bff;
+    color: #fff;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.custom-file-input:hover {
+    background-color: #0056b3;
+    border: 1px solid #0056b3;
+}
+
+.custom-file-label {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 8px 12px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.custom-file-label:hover {
+    background-color: #0056b3;
+    border: 1px solid #0056b3;
+}
+
+.inputField {
+    font-size: 16px; /* Adjust the font size as needed */
+}

@@ -1,0 +1,19 @@
+.productsListAdmin {
+    color: green;
+    font-size: 17px;
+    margin-top: 13rem;
+}
+
+.productsListAdmin table table {
+    border-width:1px; 
+    border-style:solid; 
+    border-color:green;
+    width:50%;
+    }
+.productsListAdmin td { 
+    border-width:1px;
+    border-style:solid; 
+    border-color:green;
+    width:20%;
+    }
+

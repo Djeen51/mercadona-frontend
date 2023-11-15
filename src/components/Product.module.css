@@ -1,0 +1,80 @@
+.product {
+   width: 28rem;
+   outline: 0.1px rgb(236, 237, 238) solid;
+   list-style: none;
+   background-color: rgb(255, 255, 255,0.8);
+   font-size: large;
+}
+
+.vignette {
+   box-sizing: content-box;
+}
+
+.promotion {
+   background-color: rgb(200,0,0);
+   color: yellow;
+   height: 5rem;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.noPromotion {
+   height: 5rem;
+   background-color: white;
+}
+
+.product a {
+
+   text-decoration: none;
+   color: black;
+}
+
+.product h3 {
+   text-align: center;
+   font-size: 13px;
+
+}
+
+.container {
+  padding-top: 2rem; 
+  text-align: center;
+  height: 16rem;
+}
+
+.product img {
+   display: inline-block;
+   width: 10rem;
+   border-radius: 25%;
+}
+
+.description {
+   padding: 2rem;
+   height: 14rem;
+}
+
+.name {
+   height: 10rem;
+}
+
+.product p {
+   font-size: 12px;
+}
+
+.card {
+   background-color: white;
+   height: 40rem;
+   display: flex;
+   flex-direction: column;
+
+}
+
+
+.product h3 {
+   padding-top: 1.8rem;
+   font-size: large;
+}
+
+.product p {
+   font-size: medium;
+}

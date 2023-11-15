@@ -1,0 +1,19 @@
+.userList {
+    color: green;
+    font-size: 17px;
+    margin-top: 13rem;
+}
+
+.userList table table {
+    border-width:1px; 
+    border-style:solid; 
+    border-color:green;
+    width:50%;
+    }
+.userList td { 
+    border-width:1px;
+    border-style:solid; 
+    border-color:green;
+    width:20%;
+    }
+
